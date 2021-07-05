@@ -7,6 +7,7 @@ public class App
     public static void main( String[] args )
     {
 
+        //添加注释
        Jedis jedis = new Jedis("127.0.0.1",6379);
        jedis.flushAll();
        jedis.set("zhangsan", "15");
