@@ -5,4 +5,7 @@ package com.bjpowernode;
  * 2021/7/5
  */
 public class Test {
+    public static void main(String[] args) {
+
+    }
 }
